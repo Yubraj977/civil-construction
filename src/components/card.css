@@ -1,0 +1,11 @@
+/* Card.module.css */
+
+@keyframes zoomIn {
+    from {
+      transform: scale(1); /* Start scale */
+    }
+    to {
+      transform: scale(1.1); /* End scale (zoomed in) */
+    }
+  }
+  
