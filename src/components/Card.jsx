@@ -5,7 +5,7 @@ function Card() {
     console.log(showContent);
   
     return (
-        <div className='w-1/3 h-[20rem] relative overflow-hidden'
+        <div className='lg:w-1/3 lg:h-[20rem]  relative overflow-hidden'
         onMouseEnter={() => setShowContent(true)}
         onMouseLeave={() => setShowContent(false)}
            >
