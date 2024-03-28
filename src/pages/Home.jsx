@@ -18,7 +18,7 @@ function Home() {
       </div>
 
       <div className="second lg:px-20 mt-32 px-3">
-        <h1 className='lg:text-4xl text-2xl lg:w-4/6 w-full font-inter'> We shape our buildings, Thereafter They Shape us. With this beautiful moto we serve different services for your better future</h1>
+        <h1 className='lg:text-4xl text-2xl lg:w-4/6 w-full font-inter'> We shape our <span className='font-semibold'> buildings </span>, Thereafter They Shape us. With this <span className='font-semibold'> beautiful</span> moto we serve different <span className='font-semibold'> services</span> for your better <span className='font-semibold'> future </span></h1>
         <button className=' border px-8 py-3 bg-[#005eb8] text-white font-bold mt-12 hover:bg-transparent hover:border-[#005eb8] hover:text-black'>Learn More </button>
       </div>
       <div className="third w-full bg-black text-white flex flex-col items-center py-6 mt-10">
